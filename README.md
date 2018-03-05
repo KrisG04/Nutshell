@@ -2,5 +2,5 @@
 Use this to summarize text
 # Dependencies
 Tensorflow or Theano <br/>
-Keras
-python-Levenshtein (pip install python-levenshtein)
+Keras <br/>
+python-Levenshtein (pip install python-levenshtein) <br/>
